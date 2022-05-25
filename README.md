@@ -37,7 +37,7 @@ Rainer Rilke's Book of Hours has a section that I think can beautifully describe
 
 At the moment, many studies likely leave those who follow in our footsteps feeling quite lonely and lost.
 Once data has been compiled and its fruits distributed through publication, the information therein acts as new fertilizer upon which future ideas may grow and bear fruit.
-Datasets are *curated* over through immense effort and care.
+Datasets are *curated* through immense effort and care.
 The tools used or developed often take years to master and understand.
 Unfortunately, much of scientific infrastructure does not adequtely support or integrate frameworks that enable sharing of information freely and easily.
 If we all developed tools and metadata together as a community, we could offer one another letters that describe our data as Rilke describes his thoughts.
